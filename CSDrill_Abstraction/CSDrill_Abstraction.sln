@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSDrill_Polymorphism", "CSDrill_Polymorphism\CSDrill_Polymorphism.csproj", "{6AAA2A3D-3F14-4409-9ABD-295A4B260639}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AAA2A3D-3F14-4409-9ABD-295A4B260639}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AAA2A3D-3F14-4409-9ABD-295A4B260639}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AAA2A3D-3F14-4409-9ABD-295A4B260639}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AAA2A3D-3F14-4409-9ABD-295A4B260639}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36FB1E1E-B6FF-4C20-81F3-964E3106A080}
+	EndGlobalSection
+EndGlobal
